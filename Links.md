@@ -29,6 +29,35 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Describe cloud concepts:**
 
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/
+
+https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts
+
+https://azure.microsoft.com/en-us/pricing
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-serverless-computing
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/types-of-cloud-computing
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-public-cloud
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-private-cloud
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds
+
+
 **Describe Azure architecture and services:**
 
 **Describe Azure management and governance:**
