@@ -119,4 +119,30 @@ https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/sql-managed-in
 
 https://azuremarketplace.microsoft.com/en-us/marketplace
 
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-concepts-and-iot-hub
+
+https://docs.microsoft.com/en-us/azure/iot-central/core/overview-iot-central
+
+https://azure.microsoft.com/en-us/services/azure-sphere
+
+https://azure.microsoft.com/en-us/services/synapse-analytics
+
+https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-overview
+
+https://azure.microsoft.com/en-us/services/databricks
+
+https://azure.microsoft.com/en-us/services/machine-learning
+
+https://azure.microsoft.com/en-us/services/cognitive-services
+
+https://azure.microsoft.com/en-us/services/bot-services
+
+https://azure.microsoft.com/en-us/services/functions
+
+https://azure.microsoft.com/en-us/services/logic-apps
+
+https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops
+
+https://azure.microsoft.com/en-us/services/devtest-lab
+
 **Describe Azure management and governance:**
