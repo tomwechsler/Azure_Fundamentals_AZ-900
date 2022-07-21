@@ -57,7 +57,66 @@ https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-h
 
 https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds
 
-
 **Describe Azure architecture and services:**
+
+https://azure.microsoft.com/en-us/global-infrastructure
+
+https://azure.microsoft.com/en-us/global-infrastructure/geographies
+
+https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+
+https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types
+
+https://azure.microsoft.com/en-us/products/category/compute
+
+https://azure.microsoft.com/en-us/services/virtual-machines
+
+https://azure.microsoft.com/en-us/services/app-service
+
+https://azure.microsoft.com/en-us/services/container-instances
+
+https://azure.microsoft.com/en-us/services/kubernetes-service
+
+https://azure.microsoft.com/en-us/services/virtual-desktop
+
+https://azure.microsoft.com/en-us/products/category/networking
+
+https://azure.microsoft.com/en-us/services/virtual-network
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+https://azure.microsoft.com/en-us/services/expressroute
+
+https://azure.microsoft.com/en-us/products/category/storage
+
+https://azure.microsoft.com/en-us/services/storage/blobs
+
+https://azure.microsoft.com/en-us/services/storage/disks
+
+https://azure.microsoft.com/en-us/services/storage/files
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+
+https://azure.microsoft.com/en-us/products/azure-sql/database
+
+https://azure.microsoft.com/en-us/services/mysql
+
+https://azure.microsoft.com/en-us/services/postgresql
+
+https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview
+
+https://azuremarketplace.microsoft.com/en-us/marketplace
 
 **Describe Azure management and governance:**
