@@ -222,3 +222,31 @@ https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overvie
 https://docs.microsoft.com/en-us/lifecycle/faq/azure
 
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms
+
+These Microsoft learning modules are also highly recommended:
+-----------------
+
+https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/
+
+https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
+
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
+
+https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/
+
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/
+
+https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/
+
