@@ -26,3 +26,9 @@ https://youtu.be/tQp1YkB2Tgs
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
+
+**Describe cloud concepts:**
+
+**Describe Azure architecture and services:**
+
+**Describe Azure management and governance:**
