@@ -3,16 +3,16 @@ Microsoft Certified: Azure Fundamentals (AZ-900)!
 
 https://docs.microsoft.com/en-us/certifications/azure-fundamentals
 
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+https://learn.microsoft.com/de-de/credentials/certifications/resources/study-guides/az-900
 
 Microsoft Learn:
 ----------------
 
-https://docs.microsoft.com/en-us/learn/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
 
-https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals-describe-azure-architecture-services/
+https://learn.microsoft.com/training/paths/azure-fundamentals-describe-azure-architecture-services/
 
-https://docs.microsoft.com/en-us/learn/paths/describe-azure-management-governance/
+https://learn.microsoft.com/training/paths/describe-azure-management-governance/
 
 Thomas Maurer's Study Guide:  
 -------------------
