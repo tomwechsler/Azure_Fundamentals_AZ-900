@@ -1,0 +1,47 @@
+Cloudentwicklung dank kostenlosem Azure-Konto
+https://azure.microsoft.com/de-de/free
+
+Microsoft Datacenters
+https://datacenters.microsoft.com/globe/explore
+
+Azure cross-region replication
+https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure#azure-paired-regions
+
+What are availability zones?
+https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview
+
+Availability sets overview
+https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
+
+Organize your Azure resources effectively
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
+
+Azure management groups
+https://azure.microsoft.com/en-us/blog/azure-management-groups-now-in-general-availability/
+
+Introduction to cost allocation
+https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-allocation-introduction
+
+What is Azure ExpressRoute?
+https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction
+
+Access tiers for blob data
+https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+
+Azure Storage redundancy
+https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy
+
+Azure Storage-Explorer
+https://azure.microsoft.com/de-de/products/storage/storage-explorer
+
+Was ist Azure Data Box?
+https://learn.microsoft.com/de-de/azure/databox/data-box-overview
+
+What is Conditional Access?
+https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview
+
+Azure roles, Microsoft Entra roles, and classic subscription administrator roles
+https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles
+
+Sicherheit mit Zero Trust proaktiv umsetzen
+https://www.microsoft.com/de-de/security/business/zero-trust
