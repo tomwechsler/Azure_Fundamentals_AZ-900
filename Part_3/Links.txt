@@ -1,0 +1,8 @@
+Was ist Azure Resource Manager?
+https://learn.microsoft.com/de-de/azure/azure-resource-manager/management/overview
+
+Azure Arc overview
+https://learn.microsoft.com/de-de/azure/azure-arc/overview
+
+Quickstart: Create a Windows virtual machine using a template
+https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-template
